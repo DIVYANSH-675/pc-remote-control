@@ -1,0 +1,7 @@
+websockets==11.0.3
+mss==10.0.0
+numpy==1.26.4
+imagecodecs==2025.3.30
+PyAutoGUI==0.9.54
+Pillow==11.3.0
+pywin32==310 
