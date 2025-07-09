@@ -10,7 +10,7 @@ This is a lightweight WebSocket-based VNC (Virtual Network Computing) server tha
 * Streams screen in real-time to browser
 * Allows remote mouse and keyboard control
 * No graphical user interface (headless)
-* Executable version available: `Zadoo.exe`
+* Executable version available via GitHub Releases (`Zadoo.exe`)
 
 ---
 
@@ -41,7 +41,7 @@ python websocket_vnc2.py
 
 #### 3. Or Run Using Executable
 
-To use the prebuilt executable:
+To use the prebuilt executable, download from [GitHub Releases](https://github.com/your-username/pc-remote-control/releases/latest):
 
 ```bash
 ./Zadoo.exe
@@ -62,7 +62,7 @@ http://localhost:8090
 ## 📁 Project Files
 
 * `websocket_vnc2.py` → Main Python code
-* `Zadoo.exe` → Precompiled executable version
+* `Zadoo.exe` → Downloadable from GitHub Releases
 * `requirements.txt` → List of Python dependencies
 
 ---
@@ -87,4 +87,3 @@ This project is free to use and share under an open license.
 ---
 
 If you face any issues, feel free to open a GitHub issue.
-
